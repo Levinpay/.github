@@ -55,7 +55,7 @@ documentation and contribution guidelines.
 For questions about LevinPay projects, integrations or technical topics, please
 contact:
 
-**platon@levinpay.com**
+**welcome@levinpay.com**
 
 ## LevinPay
 
